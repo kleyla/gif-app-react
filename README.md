@@ -17,3 +17,7 @@ https://enzymejs.github.io/enzyme/
 https://github.com/wojtekmaj/enzyme-adapter-react-17
 
 https://www.npmjs.com/package/enzyme-to-json
+
+Pruebas para custom hooks
+
+https://react-hooks-testing-library.com/
